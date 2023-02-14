@@ -1,0 +1,2 @@
+import matematicas.funciones_matematicas as funciones_matematicas
+from matematicas.funciones_matematicas import sumar
